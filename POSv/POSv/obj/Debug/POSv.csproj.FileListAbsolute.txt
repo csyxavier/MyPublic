@@ -1,0 +1,15 @@
+C:\Users\xp123\Documents\Chen_Csharp\POSv\POSv\bin\Debug\POSv.exe.config
+C:\Users\xp123\Documents\Chen_Csharp\POSv\POSv\bin\Debug\POSv.exe
+C:\Users\xp123\Documents\Chen_Csharp\POSv\POSv\bin\Debug\POSv.pdb
+C:\Users\xp123\Documents\Chen_Csharp\POSv\POSv\obj\Debug\POSv.csproj.AssemblyReference.cache
+C:\Users\xp123\Documents\Chen_Csharp\POSv\POSv\obj\Debug\POSv.POSvMain.resources
+C:\Users\xp123\Documents\Chen_Csharp\POSv\POSv\obj\Debug\POSv.Properties.Resources.resources
+C:\Users\xp123\Documents\Chen_Csharp\POSv\POSv\obj\Debug\POSv.csproj.GenerateResource.cache
+C:\Users\xp123\Documents\Chen_Csharp\POSv\POSv\obj\Debug\POSv.csproj.CoreCompileInputs.cache
+C:\Users\xp123\Documents\Chen_Csharp\POSv\POSv\obj\Debug\POSv.exe
+C:\Users\xp123\Documents\Chen_Csharp\POSv\POSv\obj\Debug\POSv.pdb
+C:\Users\xp123\Documents\Chen_Csharp\POSv\POSv\obj\Debug\POSv.dailyReport.resources
+C:\Users\xp123\Documents\Chen_Csharp\POSv\POSv\obj\Debug\POSv.jobList.resources
+C:\Users\xp123\Documents\Chen_Csharp\POSv\POSv\obj\Debug\POSv.addProduct.resources
+C:\Users\xp123\Documents\Chen_Csharp\POSv\POSv\obj\Debug\POSv.formAdmin.resources
+C:\Users\xp123\Documents\Chen_Csharp\POSv\POSv\obj\Debug\POSv.formCart.resources

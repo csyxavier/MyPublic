@@ -124,7 +124,7 @@ namespace POSv
             this.panelShow.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
             | System.Windows.Forms.AnchorStyles.Left) 
             | System.Windows.Forms.AnchorStyles.Right)));
-            this.panelShow.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(224)))), ((int)(((byte)(224)))), ((int)(((byte)(224)))));
+            this.panelShow.BackColor = System.Drawing.Color.SteelBlue;
             this.panelShow.Controls.Add(this.panelButtom);
             this.panelShow.Controls.Add(this.panelMenu);
             this.panelShow.Font = new System.Drawing.Font("微軟正黑體", 13.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(136)));
@@ -137,7 +137,7 @@ namespace POSv
             // 
             this.panelButtom.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Left) 
             | System.Windows.Forms.AnchorStyles.Right)));
-            this.panelButtom.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(242)))), ((int)(((byte)(242)))), ((int)(((byte)(242)))));
+            this.panelButtom.BackColor = System.Drawing.Color.SteelBlue;
             this.panelButtom.Location = new System.Drawing.Point(24, 652);
             this.panelButtom.Name = "panelButtom";
             this.panelButtom.Size = new System.Drawing.Size(1131, 114);
@@ -148,7 +148,7 @@ namespace POSv
             this.panelMenu.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
             | System.Windows.Forms.AnchorStyles.Left) 
             | System.Windows.Forms.AnchorStyles.Right)));
-            this.panelMenu.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(224)))), ((int)(((byte)(224)))), ((int)(((byte)(224)))));
+            this.panelMenu.BackColor = System.Drawing.Color.SteelBlue;
             this.panelMenu.ColumnCount = 6;
             this.panelMenu.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Percent, 16.66667F));
             this.panelMenu.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Percent, 16.66667F));
@@ -760,7 +760,7 @@ namespace POSv
             // 
             // panelButton
             // 
-            this.panelButton.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(224)))), ((int)(((byte)(224)))), ((int)(((byte)(224)))));
+            this.panelButton.BackColor = System.Drawing.Color.SteelBlue;
             this.panelButton.Controls.Add(this.btnAdm);
             this.panelButton.Controls.Add(this.label1);
             this.panelButton.Controls.Add(this.btnMenu);

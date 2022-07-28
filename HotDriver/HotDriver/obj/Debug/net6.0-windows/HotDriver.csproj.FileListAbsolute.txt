@@ -1,0 +1,17 @@
+C:\Users\xp123\Desktop\HotDriver\HotDriver\bin\Debug\net6.0-windows\HotDriver.exe
+C:\Users\xp123\Desktop\HotDriver\HotDriver\bin\Debug\net6.0-windows\HotDriver.deps.json
+C:\Users\xp123\Desktop\HotDriver\HotDriver\bin\Debug\net6.0-windows\HotDriver.runtimeconfig.json
+C:\Users\xp123\Desktop\HotDriver\HotDriver\bin\Debug\net6.0-windows\HotDriver.dll
+C:\Users\xp123\Desktop\HotDriver\HotDriver\bin\Debug\net6.0-windows\HotDriver.pdb
+C:\Users\xp123\Desktop\HotDriver\HotDriver\obj\Debug\net6.0-windows\HotDriver.csproj.AssemblyReference.cache
+C:\Users\xp123\Desktop\HotDriver\HotDriver\obj\Debug\net6.0-windows\HotDriver.Form1.resources
+C:\Users\xp123\Desktop\HotDriver\HotDriver\obj\Debug\net6.0-windows\HotDriver.csproj.GenerateResource.cache
+C:\Users\xp123\Desktop\HotDriver\HotDriver\obj\Debug\net6.0-windows\HotDriver.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\xp123\Desktop\HotDriver\HotDriver\obj\Debug\net6.0-windows\HotDriver.AssemblyInfoInputs.cache
+C:\Users\xp123\Desktop\HotDriver\HotDriver\obj\Debug\net6.0-windows\HotDriver.AssemblyInfo.cs
+C:\Users\xp123\Desktop\HotDriver\HotDriver\obj\Debug\net6.0-windows\HotDriver.csproj.CoreCompileInputs.cache
+C:\Users\xp123\Desktop\HotDriver\HotDriver\obj\Debug\net6.0-windows\HotDriver.dll
+C:\Users\xp123\Desktop\HotDriver\HotDriver\obj\Debug\net6.0-windows\refint\HotDriver.dll
+C:\Users\xp123\Desktop\HotDriver\HotDriver\obj\Debug\net6.0-windows\HotDriver.pdb
+C:\Users\xp123\Desktop\HotDriver\HotDriver\obj\Debug\net6.0-windows\HotDriver.genruntimeconfig.cache
+C:\Users\xp123\Desktop\HotDriver\HotDriver\obj\Debug\net6.0-windows\ref\HotDriver.dll
